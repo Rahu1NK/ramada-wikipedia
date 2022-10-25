@@ -1,0 +1,29 @@
+{
+  "name": "ramada-wikipedia",
+  "version": "1.0.0",
+  "description": "Ramda wikipedia Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahu1NK/ramada-wikipedia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahu1NK/ramada-wikipedia/issues"
+  },
+  "homepage": "https://github.com/Rahu1NK/ramada-wikipedia#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "parcel": "^2.7.0",
+    "ramda": "^0.28.0",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
